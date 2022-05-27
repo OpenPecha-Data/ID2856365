@@ -1,0 +1,147 @@
+id: ID2856365
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T15:33:55.593040'
+last_modified: '2022-05-27T15:33:55.593059'
+parser: null
+source_metadata:
+  title: 'PP: Ratnaguṇasaṃcayagāthā'
+  language: en
+  base:
+    f54AC:
+      title: 1. Sarvākārajñatācaryā
+      base_file: f54AC.txt
+      order: 1
+    f60B6:
+      title: 2. Śakra
+      base_file: f60B6.txt
+      order: 2
+    f68DD:
+      title: 3. Aprameyaguṇadhāraṇapāramitāstūpasatkāra
+      base_file: f68DD.txt
+      order: 3
+    f9B34:
+      title: 4. Guṇaparikīrtana
+      base_file: f9B34.txt
+      order: 4
+    f3BC1:
+      title: 5. Puṇyaparyāya
+      base_file: f3BC1.txt
+      order: 5
+    fAD0D:
+      title: 6. Anumodanā
+      base_file: fAD0D.txt
+      order: 6
+    fB700:
+      title: 7. Niraya
+      base_file: fB700.txt
+      order: 7
+    f5282:
+      title: 8. Viśuddhi
+      base_file: f5282.txt
+      order: 8
+    fCB33:
+      title: 9. Stuti
+      base_file: fCB33.txt
+      order: 9
+    fAF33:
+      title: 10. Dhāraṇīguṇa
+      base_file: fAF33.txt
+      order: 10
+    fC0E3:
+      title: 11. Mārakarma
+      base_file: fC0E3.txt
+      order: 11
+    f41E4:
+      title: 12. Lokasaṃdarśana
+      base_file: f41E4.txt
+      order: 12
+    fAF36:
+      title: 13. Acintya
+      base_file: fAF36.txt
+      order: 13
+    f546E:
+      title: 14. Aupamya
+      base_file: f546E.txt
+      order: 14
+    fC429:
+      title: 15. Deva
+      base_file: fC429.txt
+      order: 15
+    f2848:
+      title: 16. Tathatā
+      base_file: f2848.txt
+      order: 16
+    f621D:
+      title: 17. Avinivartanīyaliṅgākāra
+      base_file: f621D.txt
+      order: 17
+    f4445:
+      title: 18. Śūnyatā
+      base_file: f4445.txt
+      order: 18
+    fC675:
+      title: 19. Gaṅgadevābhaginī
+      base_file: fC675.txt
+      order: 19
+    f7D9E:
+      title: 20. Upāyakauśalyamīmāṃsā
+      base_file: f7D9E.txt
+      order: 20
+    f336A:
+      title: 21. Mārakarma
+      base_file: f336A.txt
+      order: 21
+    f2D30:
+      title: 22. Kalyāṇamitra
+      base_file: f2D30.txt
+      order: 22
+    fE9E3:
+      title: 23. Śakra
+      base_file: fE9E3.txt
+      order: 23
+    f57A6:
+      title: 24. Abhimāna
+      base_file: f57A6.txt
+      order: 24
+    f3BA5:
+      title: 25. Śikṣā
+      base_file: f3BA5.txt
+      order: 25
+    fAE4A:
+      title: 26. Māyopama
+      base_file: fAE4A.txt
+      order: 26
+    f4746:
+      title: 27. Sāra
+      base_file: f4746.txt
+      order: 27
+    fA962:
+      title: 28. Avakīrṇakusuma
+      base_file: fA962.txt
+      order: 28
+    fF1BF:
+      title: 29. Anugama
+      base_file: fF1BF.txt
+      order: 29
+    fAE34:
+      title: 30. Sadāprarudita
+      base_file: fAE34.txt
+      order: 30
+    fC69C:
+      title: 31. Dharmodgata
+      base_file: fC69C.txt
+      order: 31
+    fC6DC:
+      title: 32. Parīndanā
+      base_file: fC6DC.txt
+      order: 32
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
